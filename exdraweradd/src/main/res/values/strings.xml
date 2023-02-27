@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">exDrawerAdd</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Fragment Name -->
+    <string name="nav_main">Main Fragment</string>
+    <string name="nav_add">Add Fragment</string>
+</resources>
